@@ -51,6 +51,13 @@ nav{
     text-decoration: none;
     color: white;
     font-size: 0.9rem;
+    transition: ease-in 1000ms;
+}
+
+.nav-bar a:hover{
+   color:#9E4F85;
+   border-bottom: 2px solid #9E4F85;
+
 }
 
 /* Nav section end */
